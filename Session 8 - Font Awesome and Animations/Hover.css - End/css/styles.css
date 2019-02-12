@@ -1,0 +1,40 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Anton', sans-serif;
+}
+
+.carousel-caption{
+  background-color: rgba(0,0,0,0.2);
+}
+
+.aboutUsSection{
+  background-color: #ccc;
+}
+
+footer{
+  background-color: #111;
+  color: #fff;
+}
+
+.modal-content{
+  background-color: red;
+}
+
+.btn-primary{
+  background-color: #bada55;
+}
+
+.hvr-shutter-in-horizontal{
+  background: #bada55;
+}
+
+.hvr-shutter-in-horizontal::before{
+  background: #343a40;
+}
+
+.hvr-icon-forward::before{
+  content:'\f270'; /*Amazon Logo*/ /*http://swwwitch.com/dl/Font-Awesome-Cheetsheet-4.5.0.pdf*/
+}
